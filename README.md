@@ -10,7 +10,7 @@ A productive text editor must:
 - keep its data synchronized across multiple devices, even after long stretches of offline use
 - encourage the user along a steep learning curve, until he can grasp unintuitive concepts like HTML formatting & CSS styling
 - provide instantaneous, intuitive publication stylings for various basic uses
-- do its job—freeing the user from technical distractions, to focus on composition, styling & publication tasks
+- do its job—freeing the user from technical distractions, to focus on greater composition, presentation & publication tasks
 
 Does this text editor already exist? Packaged in a tight bundle? And deployed from an open source project?
 
