@@ -3,7 +3,9 @@ mulight
 
 *Markup-lightweight / HTML text editor*
 
-At a minimum, a simple yet convenient/productive text editor must:
+__Challenge:__ define a simple-yet-convenient/productive text editor.
+
+At a minimum, it must:
 
 - permit quick changes to one's works-in-progress, on the fly, using handheld devices
 - integrate naturally with a revision management system, for preserving/accessing all of one's prior work
@@ -17,5 +19,4 @@ Does this text editor already exist? Packaged in a tight bundle? And deployed fr
 Such is the intent with mulight.
 
 . . .
-
 
