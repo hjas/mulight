@@ -3,11 +3,9 @@ mulight™
 
 *Markup-lightweight / HTML text editor*
 
-<<<<<<< HEAD
+
 __The challenge:__ define a simple-yet-convenient/productive text editor.
-=======
-__Challenge:__ describe a simple-yet-convenient/productive text editor.
->>>>>>> FETCH_HEAD
+
 
 At a minimum, it must:
 
@@ -20,7 +18,7 @@ At a minimum, it must:
 
 Does this text editor already exist? Packaged in a tight bundle? And deployed from an open source project?
 
-Such is the intent with mulight™.
+Such is the intent with __mulight™__.
 
 . . .
 
