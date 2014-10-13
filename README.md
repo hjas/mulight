@@ -3,7 +3,11 @@ mulight™
 
 *Markup-lightweight / HTML text editor*
 
+<<<<<<< HEAD
 __The challenge:__ define a simple-yet-convenient/productive text editor.
+=======
+__Challenge:__ describe a simple-yet-convenient/productive text editor.
+>>>>>>> FETCH_HEAD
 
 At a minimum, it must:
 
